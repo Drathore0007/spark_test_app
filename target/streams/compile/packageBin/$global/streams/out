@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/dharm/Documents/Doofenshmirtz_Evil_corp_Develpoment/GitHub/Spark_test_app/target/scala-2.11/spark_basics_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharm/Documents/Doofenshmirtz_Evil_corp_Develpoment/GitHub/Spark_test_app/target/scala-2.11/classes/wordcount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharm/Documents/Doofenshmirtz_Evil_corp_Develpoment/GitHub/Spark_test_app/target/scala-2.11/classes/wordcount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharm/Documents/Doofenshmirtz_Evil_corp_Develpoment/GitHub/Spark_test_app/target/scala-2.11/classes/wordcount$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharm/Documents/Doofenshmirtz_Evil_corp_Develpoment/GitHub/Spark_test_app/target/scala-2.11/classes/wordcount$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wordcount$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/dharm/Documents/Doofenshmirtz_Evil_corp_Develpoment/GitHub/Spark_test_app/target/scala-2.11/classes/wordcount$$anonfun$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
